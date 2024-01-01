@@ -33,9 +33,6 @@ We welcome contributions from the community to enhance FluentBridge. If you'd li
 
 For any inquiries or support, please contact the development team at fluentbridge.support@tangenttechies.com.
 
-### License 📜
-
-This project is licensed under the MIT License.
 
 Thank you for choosing FluentBridge to embark on your English learning journey! 🚀🌍
 
