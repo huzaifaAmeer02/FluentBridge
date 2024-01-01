@@ -39,3 +39,5 @@ This project is licensed under the MIT License.
 
 Thank you for choosing FluentBridge to embark on your English learning journey! 🚀🌍
 
+![WhatsApp Image 2023-12-31 at 22 28 03 (1)](https://github.com/huzaifaAmeer02/FluentBridge/assets/128307875/967d1df9-2176-421d-9bed-ece1dbd0cdd7)
+![WhatsApp Image 2023-12-31 at 22 28 02 (1)](https://github.com/huzaifaAmeer02/FluentBridge/assets/128307875/031a09f1-e97f-4fa3-be2a-3b32c71370a1)
